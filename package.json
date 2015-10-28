@@ -51,6 +51,7 @@
     "mocha": "~2.2.4"
   },
   "dependencies": {
+    "aes": "^0.1.0",
     "elliptic": "^5.1.0",
     "es6-promise": "^1.0.0",
     "node-localstorage": "~0.3.4",
